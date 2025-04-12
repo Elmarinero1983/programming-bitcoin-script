@@ -1,5 +1,5 @@
 {"op": "add", "path": "/num_parents/e2bbcfd997d54350025daa43bf81cb3c3197246b045313eef9ba8ef7ef27e970", "value": 1},
-{"op": "add", "path": "/invoices/162f2a6258", "value": {"amount_msat": "!", "message": null, "time": 1744079898, "exp": 0, "outputs": [[0, "bc1q2fn08922hfasz7dd6tvlusq3ctrnqd7d7xlqlq", "!"]], "height": 891435, "bip70": null, "lightning_invoice": null}},
+{"op": "add", "path": "/invoices/162f2a6258", "value": {"amount_msat": "!", "message": null, "time": 1744079898, "exp": 0, "outputs": [[5226776, "bc1q2fn08922hfasz7dd6tvlusq3ctrnqd7d7xlqlq", "!"]], "height": 891435, "bip70": null, "lightning_invoice": null}},
 {"op": "add", "path": "/spent_outpoints/e2bbcfd997d54350025daa43bf81cb3c3197246b045313eef9ba8ef7ef27e970", "value": {}},
 {"op": "add", "path": "/spent_outpoints/e2bbcfd997d54350025daa43bf81cb3c3197246b045313eef9ba8ef7ef27e970/113", "value": "c77f4ee287fe08bf7e23bd8b30a0f484d71fcc57f003f8de80c00259d0855cde"},
 {"op": "add", "path": "/txi/c77f4ee287fe08bf7e23bd8b30a0f484d71fcc57f003f8de80c00259d0855cde", "value": {}},
