@@ -32,5 +32,5 @@ stack = []
 pp stack.push( "<sig>" )   #=> stack = ["<sig>"]
 
 ## II) ScriptPubKey (output/lock) part
-pp stack.push( "<pubkey")  #=> stack = ["<sig>", "<pubkey>" ]
+pp stack.push( "<pubkey>" )  #=> stack = ["<sig>", "<pubkey>" ]
 pp op_checksig( stack )    #=> stack = [0]
